@@ -1,100 +1,40 @@
-<h1 align="center">Hey 👋 I'm Amirhossein Varmanli</h1>
+# 💫 About Me:
+🚀 Building modern web applications with React, Next.js and TypeScript<br>🤝 Open to collaborating on creative and meaningful projects<br>💡 Passionate about clean UI, scalable products and great user experiences<br>🌱 Currently exploring backend architecture and improving my engineering skills<br>💬 Ask me about React, Next.js, TypeScript and frontend development<br>⚡ Fun fact: I love transforming ideas into real-world digital products
 
-<h3 align="center">
-Frontend Developer | React & Next.js
-</h3>
 
-<p align="center">
-Building modern, scalable and user-focused web applications with clean UI and great experiences.
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varmanli) 
 
-###
+# 💻 Tech Stack:
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwind logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="postgres logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="55" alt="prisma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="docker logo" />
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-###
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h2 align="center">🚀 About Me</h2>
+![Node.js](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571.svg?style=for-the-badge)
 
-<p align="center">
-I'm a Frontend Developer passionate about creating modern web applications and digital products.
-<br/>
-I specialize in React, Next.js and TypeScript, with experience building real-world platforms,
-dashboards and content-driven applications.
-<br/>
-I enjoy transforming ideas into functional products and continuously improving my skills.
-</p>
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-3982CE.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F.svg?style=for-the-badge&logo=drizzle&logoColor=black)
 
-###
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<h2 align="center">🛠️ Featured Projects</h2>
+![Vercel](https://img.shields.io/badge/vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=varmanli&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=varmanli&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=varmanli&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<div align="center">
+---
+[![](https://komarev.com/ghpvc/?username=varmanli&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<strong>Negare Platform</strong>
-<br/>
-A digital marketplace for selling and managing digital products with user dashboards, artist management and online services.
-
-<br/><br/>
-
-<strong>Qafaseh</strong>
-<br/>
-A social book platform for managing personal libraries, reading progress and book-related content.
-
-<br/><br/>
-
-<strong>NexPad</strong>
-<br/>
-A personal programming blog focused on sharing software development knowledge.
-
-</div>
-
-###
-
-<div align="center">
-
-<a href="https://varmanli.ir">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Varmanli">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-###
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Varmanli&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varmanli&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-###
-
-<p align="center">
-💡 Code • Design • Creativity
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
