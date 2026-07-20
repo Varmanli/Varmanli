@@ -1,64 +1,35 @@
-# 👋 About Me
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Amihosein Varmanli
+===========================================================================================================================================
 
-Hi, I'm Amirhossein Varmanli — a Frontend Developer passionate about building modern, scalable, and user-focused web applications.
+Frontend Developer | React & Next.js
+------------------------------------
 
-I specialize in React.js, Next.js, and TypeScript, with experience designing and developing real-world products, dashboards, and digital platforms.
+I'm a Frontend Developer passionate about building modern, scalable, and user-focused web applications.
 
-I enjoy turning ideas into clean, responsive, and maintainable interfaces while focusing on performance, user experience, and quality code.
+I specialize in React.js, Next.js, and TypeScript, creating responsive interfaces and real-world digital products with clean architecture and great user experience.
 
-## 🚀 What I Do
+I enjoy turning ideas into functional products and continuously improving my skills in modern web development.
 
-- Build modern web applications with React & Next.js
-- Create reusable, scalable UI components
-- Develop responsive and accessible interfaces
-- Work with APIs, databases, and modern web architectures
-- Design and implement complete digital products from idea to deployment
+*   🌍  I'm based in Tehran
+*   🖥️  See my portfolio at [Portfolio](http://varmanli.ir)
+*   ✉️  You can contact me at [varmanliamirhosein@gmail.com](mailto:varmanliamirhosein@gmail.com)
+*   🚀  I'm currently working on [Building real-world web applications](http://negarestock.ir)
+*   🧠  I'm currently learning Advanced React patterns, Next.js architecture, and backend fundamentals
+*   👥  I'm looking to collaborate on Open-source projects, web applications, and creative digital products
+*   💬  Ask me about I enjoy turning ideas into real products and solving problems with code.
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+                  </p>
+                  
 
-## 🛠️ Technologies
+                ### Socials
+                
+                <p align="left"> <a href="https://www.github.com/varmanli" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/varmanli" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-Frontend:
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- HTML5 / CSS3
+### Badges
 
-Backend & Database:
-- Node.js
-- REST APIs
-- PostgreSQL
-- Prisma
-- Drizzle ORM
+<b>My GitHub Stats</b>
 
-Tools:
-- Git / GitHub
-- Docker
-- Figma
+<a href="http://www.github.com/varmanli"><img src="https://github-readme-stats.vercel.app/api?username=varmanli&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="varmanli's GitHub stats" /></a>
 
-## 📌 Featured Projects
-
-### Negare Platform
-A full digital marketplace for selling and managing digital products, including user dashboards, artist management, payments, and content management.
-
-### Qafaseh
-A social book platform for managing personal libraries, reading progress, notes, and book-related content.
-
-### ShahnameSara
-An interactive platform for exploring Persian mythology and Shahnameh stories with structured content and modern UX.
-
-### NexPad
-A personal programming blog focused on sharing software development knowledge and learning experiences.
-
-## 🎯 Currently
-
-Improving my skills as a Frontend Developer and looking for opportunities to collaborate with talented teams and build impactful products.
-
-## 📫 Connect With Me
-
-Portfolio:
-https://varmanli.ir
-
-GitHub:
-https://github.com/Varmanli
---->
+<a href="https://github.com/varmanli" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varmanli&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
